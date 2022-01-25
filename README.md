@@ -66,7 +66,9 @@ npm install
 ![SCR-20220119-lgw.png](/README/SCR-20220119-lgw.png)
 ![npm-i.jpg](/README/npm-i.jpg)
 
-## </details>
+</details>
+
+---
 
 ## 4. Kør dev-server via Terminalen
 
