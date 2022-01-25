@@ -1,10 +1,8 @@
 # Installation (trin-for-trin)
 
-<aside
-💡 Sådan kommer du i gang med Tailwind CSS.
-***OBS!** Det er ikke meningen, at du skal vide alt, hvad du skal i denne guide.*
+💡 **Sådan kommer du i gang med Tailwind CSS.**
 
-</aside
+**_OBS!_** _Det er ikke meningen, at du skal vide alt, hvad du skal i denne guide._
 
 ## 1. Installer Node
 
