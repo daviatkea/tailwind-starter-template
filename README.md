@@ -22,9 +22,13 @@ Først skal du downloade og installere **Node** via [https://nodejs.org/en/downl
 
 Vælg enten _macOs_ eller _Windows_
 
-- Se eksempel
+<details>
+    <summary>Se eksempel</summary>
+    <div>
   ![Vælg enten `macOS` eller `Windows`](/README/SCR-20220119-ld2.png)
   Vælg enten `macOS` eller `Windows`
+  </div>
+</details>
 
 ---
 
