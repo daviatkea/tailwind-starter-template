@@ -40,11 +40,15 @@ Fork følgende GitHub-repository og klon derefter ind i VS Code (se evt. nedenfo
 https://github.com/daviatkea/tailwind-starter-template.git
 ```
 
-- Se eksempler
-  ![Fork-knap på GitHub](/README/SCR-20220119-kk2.png)
-  Fork-knap på GitHub
-  ![Klon via linket fra dit forket repository](/README/SCR-20220119-kpq.png)
-  Klon via linket fra dit forket repository
+<details>
+    <summary>Se eksempler</summary>
+
+![Fork-knap på GitHub](/README/SCR-20220119-kk2.png)
+Fork-knap på GitHub
+![Klon via linket fra dit forket repository](/README/SCR-20220119-kpq.png)
+Klon via linket fra dit forket repository
+
+</details>
 
 ---
 
@@ -56,11 +60,13 @@ https://github.com/daviatkea/tailwind-starter-template.git
 npm install
 ```
 
-- Se eksempel
-  ![SCR-20220119-lgw.png](/README/SCR-20220119-lgw.png)
-  ![npm-i.jpg](/README/npm-i.jpg)
+<details>
+    <summary>Se eksempel</summary>
 
----
+![SCR-20220119-lgw.png](/README/SCR-20220119-lgw.png)
+![npm-i.jpg](/README/npm-i.jpg)
+
+## </details>
 
 ## 4. Kør dev-server via Terminalen
 
@@ -70,11 +76,8 @@ Setuppet virker ikke med den traditionelle Live-Sever. Så derfor skal vi køre 
 npm run dev
 ```
 
-<aside
 💡 **OBS!** — Nogle gange er det nødvendigt at stoppe serveren, hvilket gøres ved at indtaste `ctrl+c` i terminal-vinduet.
 Hvis du skal starte serveren igen, brug da `npm run dev` igen.
-
-</aside
 
 ---
 
