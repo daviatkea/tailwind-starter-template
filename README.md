@@ -24,10 +24,10 @@ Vælg enten _macOs_ eller _Windows_
 
 <details>
     <summary>Se eksempel</summary>
-    <div>
-  ![Vælg enten `macOS` eller `Windows`](/README/SCR-20220119-ld2.png)
-  Vælg enten `macOS` eller `Windows`
-  </div>
+
+![Vælg enten `macOS` eller `Windows`](/README/SCR-20220119-ld2.png)
+Vælg enten `macOS` eller `Windows`
+
 </details>
 
 ---
