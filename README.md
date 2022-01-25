@@ -4,6 +4,18 @@
 
 **_OBS!_** _Det er ikke meningen, at du skal vide alt, hvad du skal i denne guide._
 
+---
+
+**Trin:**
+
+1. Installer Node
+2. Fork og klon via GitHub
+3. Åbn Terminalen i VS Code
+4. Kør dev-server via Terminalen
+5. Brug Tailwind
+
+---
+
 ## 1. Installer Node
 
 Først skal du downloade og installere **Node** via [https://nodejs.org/en/download/current/](https://nodejs.org/en/download/current/)
