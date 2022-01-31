@@ -2,7 +2,7 @@
 
 💡 **Sådan kommer du i gang med Tailwind CSS.**
 
-**_OBS!_** _Det er ikke meningen, at du skal vide alt, hvad du skal i denne guide._
+**_OBS!_** _Det er ikke meningen, at du skal vide alt om, hvad du skal i denne guide._
 
 ---
 
