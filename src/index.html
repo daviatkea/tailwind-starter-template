@@ -5,12 +5,50 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Tailwind Starter Template</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="tailwind.css" />
   </head>
   <body>
-    <h1 class="bg-indigo-700 text-violet-50 hover:bg-indigo-300">
-      Hello Tailwind CSS
-    </h1>
+    <section class="mx-auto grid max-w-5xl gap-4 p-4 md:grid-cols-2">
+      <a href="#0" class="group row-span-2">
+        <figure class="grid">
+          <img
+            class="col-start-1 row-start-1 items-stretch"
+            src="https://kea.dk/slir/w1170-c100x40/images/DA/For-virksomheder/Samarbejde.jpg"
+            alt=""
+          />
+          <figcaption class="col-start-1 row-start-1 grid items-end self-end">
+            <div
+              class="col-start-1 row-start-1 bg-cyan-900/80 p-4 text-white transition duration-500 group-hover:opacity-0"
+            >
+              Teskt 1
+            </div>
+            <div
+              class="col-start-1 row-start-1 bg-cyan-900/80 p-4 text-white opacity-0 transition duration-500 group-hover:opacity-100"
+            >
+              Teskt 2 er længere <br />mere tekst
+            </div>
+          </figcaption>
+        </figure>
+      </a>
+      <a
+        href="#0"
+        class="grid content-center bg-red-500 p-4 text-3xl text-white hover:bg-red-400"
+      >
+        <span>Kontakt os</span>
+      </a>
+      <a
+        href="#0"
+        class="grid content-center bg-cyan-900 p-4 font-semibold text-white"
+      >
+        <span>Bla bla bla..</span>
+      </a>
+    </section>
     <script type="module" src="index.js"></script>
   </body>
 </html>
