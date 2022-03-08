@@ -11,7 +11,7 @@
 1. Installer Node
 2. Download respository via terminalen
 3. Sæt projektet op
-4. Kør dev-server via Terminalen
+4. Kør dev-server via terminalen
 5. Brug Tailwind
 
 ---
@@ -67,7 +67,7 @@ npm install
 
 ---
 
-## 4. Kør dev-server via Terminalen
+## 4. Kør dev-server via terminalen
 
 Setuppet virker ikke med den traditionelle Live-Sever. Så derfor skal vi køre vores egen dev-server. Det gør du ved at kopiere følgende ind i terminal-vinduet efterfulgt af _Enter_
 
