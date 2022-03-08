@@ -9,8 +9,8 @@
 **Trin:**
 
 1. Installer Node
-2. Fork og klon via GitHub
-3. Åbn Terminalen i VS Code
+2. Download respository via terminalen
+3. Sæt projektet op
 4. Kør dev-server via Terminalen
 5. Brug Tailwind
 
