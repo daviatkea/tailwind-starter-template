@@ -32,29 +32,27 @@ Vælg enten `macOS` eller `Windows`
 
 ---
 
-## 2. Fork og klon via GitHub
+## 2. Download respository via terminalen
 
-Fork følgende GitHub-repository og klon derefter ind i VS Code (se evt. nedenfor).
+Opret og åben en ny mappe i VS Code. Åbn terminalen via **View** (se evt. nedenfor), og kopier følgende kode ind i terminal-vinduet og tryk _Enter_.
 
 ```
-https://github.com/daviatkea/tailwind-starter-template.git
+npx degit https://github.com/daviatkea/tailwind-starter-template.git . --force
 ```
 
 <details>
-    <summary>Se eksempler</summary>
+    <summary>Find terminal-vinduet</summary>
 
-![Fork-knap på GitHub](/README/SCR-20220119-kk2.png)
-Fork-knap på GitHub
-![Klon via linket fra dit forket repository](/README/SCR-20220119-kpq.png)
-Klon via linket fra dit forket repository
+![SCR-20220119-lgw.png](/README/SCR-20220119-lgw.png)
+Åben terminal
 
 </details>
 
 ---
 
-## 3. Åbn Terminalen i VS Code
+## 3. Sæt projektet op
 
-Åbn terminalen via **View** i VS Code, og kopier derefter følgende kode ind i terminal-vinduet og tryk _Enter_
+Indtast følgende kode i terminal-vinduet og tryk _Enter_
 
 ```
 npm install
@@ -63,7 +61,6 @@ npm install
 <details>
     <summary>Se eksempel</summary>
 
-![SCR-20220119-lgw.png](/README/SCR-20220119-lgw.png)
 ![npm-i.jpg](/README/npm-i.jpg)
 
 </details>
